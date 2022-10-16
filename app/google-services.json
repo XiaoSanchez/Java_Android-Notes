@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038557771063",
+    "project_id": "shawn-38bb3",
+    "storage_bucket": "shawn-38bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038557771063:android:9acb082205f29d7a4716b2",
+        "android_client_info": {
+          "package_name": "com.shawn.worldpeaceissuesmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038557771063-o4t68h3iq644r6uo99a7qhj75d0g7mj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74Y6Ldrc0J4oSvwD5Ijy1pT2noWthcbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038557771063-o4t68h3iq644r6uo99a7qhj75d0g7mj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
