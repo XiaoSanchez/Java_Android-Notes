@@ -1,7 +1,7 @@
 
 # Android Project: Notes
 
-Implements the functioning of a To-Do list that performs various functions like Addition, removal, and update in the tasks, developed by using Android Firebase applications in Java with Gradle.
+Implements the functioning of a To-Do list that performs various functions like Addition, removal, and update in the tasks, developed by using Android Firebase applications with Gradle.
 ## Features
 
 - Overview of Firebase and Backend-as-a-Service
